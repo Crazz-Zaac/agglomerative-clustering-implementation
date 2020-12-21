@@ -1,7 +1,7 @@
 # Agglomerative Clustering Implementation
 
 ```
-![alt text](https://github.com/Crazz-Zaac/Support-Vector-Machine-Implementation/blob/master/img/svm1.jpg)
+![alt text](https://github.com/Crazz-Zaac/agglomerative-clustering-implementation/blob/master/img/dendrogram.jpg =250x250)
 ```
 ## Algorithm:
 ```
