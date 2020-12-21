@@ -1,6 +1,6 @@
 # Agglomerative Clustering Implementation
 
-<img src="https://github.com/Crazz-Zaac/agglomerative-clustering-implementation/blob/master/img/dendrogram.jpg" width="30">
+<img src="https://github.com/Crazz-Zaac/agglomerative-clustering-implementation/blob/master/img/dendrogram.jpg" width="100">
 
 ## Algorithm:
 ```
