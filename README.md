@@ -5,14 +5,14 @@
 <img src="https://github.com/Crazz-Zaac/agglomerative-clustering-implementation/blob/master/img/plotCluster.jpg" width="500">
 
 ## Algorithm:
-
+`
 1. Create n clusters, one for each data point
 2. Compute the Proximity Matrix which wil be a (nxn) matrix
 3. Repeat:
 	i. Merge the closest clusters
 	ii. Update the proximity matrix
   Until: Only a single cluster remains
-
+`
 
 ## Getting ready
 First setup virtual environment, activate it install the essentials.
