@@ -1,8 +1,7 @@
 # Agglomerative Clustering Implementation
 
-```
 ![alt text](https://github.com/Crazz-Zaac/agglomerative-clustering-implementation/blob/master/img/dendrogram.jpg =250x250)
-```
+
 ## Algorithm:
 ```
 1. Create n clusters, one for each data point
